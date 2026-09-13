@@ -74,10 +74,14 @@ Yet making a simple offline plan can still look like:
 
         Try again...
 
-##How NEST WORKS 
+## 🧩 How NEST Works
 
-<img src="./public/nestWorks (1).png">
+<p align="center">
+  <img src="./public/nest-works.png" alt="How NEST Works" width="900">
+</p>
 
-##NEST MVP Journey
+## 🚀 NEST MVP Journey
 
-<img src="./public/mvpJourney.png">
+<p align="center">
+  <img src="./public/mvp-journey.png" alt="NEST MVP Journey" width="900">
+</p>
