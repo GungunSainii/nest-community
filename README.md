@@ -1,16 +1,83 @@
-# React + Vite
+# 🌱 NEST
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<p align="center">
 
-Currently, two official plugins are available:
+### From "let's meet sometime" to "see you next Sunday."
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**A hyperlocal platform that turns small offline meetups into recurring communities.**
 
-## React Compiler
+<br/>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Hackathon](https://img.shields.io/badge/Hackathon-HackerVilla%20Nainital-red?style=for-the-badge)
+![Theme](https://img.shields.io/badge/Theme-Smart%20Living%20%26%20Connected%20Communities-black?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-MVP-orange?style=for-the-badge)
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-Fast-purple?style=for-the-badge&logo=vite)
 
-## Expanding the Oxlint configuration
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🏔️ HackerVilla Nainital — Edition 01
+
+### Round 01 — Theme 05
+
+> ## 🏙️ Smart Living & Connected Communities
+
+**Challenge direction:**
+
+> Reimagine how people live, travel, learn, work and interact through smart cities, mobility, IoT and safety.
+
+### Our interpretation
+
+NEST focuses on one overlooked part of connected living:
+
+**How do we make people actually connect with the people around them — offline?**
+
+Technology has made communication easier than ever, but meaningful local interaction can still be difficult.
+
+NEST uses technology not to keep people online longer, but to help them **step outside and build small real-world communities.**
+
+---
+
+# 🧩 The Problem
+
+We are more digitally connected than ever.
+
+We have:
+
+- Instagram followers
+- WhatsApp groups
+- College communities
+- Online friends
+- Event platforms
+- Social media feeds
+
+Yet making a simple offline plan can still look like:
+
+```text
+"Anyone free to study together this weekend?"
+
+          ↓
+
+        No replies
+
+          ↓
+
+     Plan postponed
+
+          ↓
+
+      Group becomes inactive
+
+          ↓
+
+        Try again...
+
+##How NEST WORKS 
+
+<img src="./public/nestWorks (1).png">
+
+##NEST MVP Journey
+
+<img src="./public/mvpJourney.png">
